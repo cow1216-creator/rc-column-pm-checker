@@ -118,8 +118,7 @@ RC-Column-PM-Checker-EN.xlsx
 ├── bar           ← 鋼筋座標 (X, Y, 每根 As)
 └── R0 ... R20    ← 21 個 P-M 點 (每個對應一個中性軸位置)
 ```
-授權
-[請選擇一個——推薦 MIT，詳見下方 License 章節]
+
 回饋
 發現 bug？有建議？請在 GitHub 開 issue，或直接聯絡作者。
 免責聲明
