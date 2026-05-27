@@ -56,8 +56,7 @@ RC-Column-PM-Checker-EN.xlsx
 ├── bar           ← rebar coordinates (X, Y, As per bar)
 └── R0 ... R20    ← 21 P-M points (one neutral-axis position each)
 ```
-License
-[Choose one — recommend MIT, see License section below]
+
 Contributing
 Found a bug? Have a suggestion? Please open an issue on GitHub or contact the author.
 Disclaimer
